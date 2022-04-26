@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <code><img src="capa.gif"></code>
 
 <a href="https://github.com/Mario-Nakazato?tab=repositories">
-  <img align="left" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Nakazato&theme=chartreuse-dark&&langs_count=4&locale=pt-br&hide=Makefile,Dockerfile" alt="**Mario-Nakazato** estatística github"/>
+  <img align="left" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Nakazato&theme=chartreuse-dark&&langs_count=4&locale=pt-br&hide=Makefile,Dockerfile" alt="**Mario-Nakazato** estatística github"/>
 </a>
 <a href="https://github.com/Mario-Nakazato?tab=repositories">
- <img align="right" height="225" src="https://github-readme-stats.vercel.app/api?username=Mario-Nakazato&show_icons=true&theme=chartreuse-dark&line_height=27&locale=pt-br" alt="**Mario-Nakazato** estatística github"/>
+ <img align="right" height="220" src="https://github-readme-stats.vercel.app/api?username=Mario-Nakazato&show_icons=true&theme=chartreuse-dark&line_height=27&locale=pt-br" alt="**Mario-Nakazato** estatística github"/>
 </a>
